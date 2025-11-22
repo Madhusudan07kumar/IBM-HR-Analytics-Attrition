@@ -79,8 +79,9 @@ This dashboard supports HR managers & policymakers by:
 ✔ Helping plan compensation & staffing strategies
 
 
-https://github.com/Madhusudan07kumar/IBM-HR-Analytics-Attrition/blob/main/HR%20Attrition%20Analysis.png
+<img width="1321" height="720" alt="image" src="https://github.com/Madhusudan07kumar/IBM-HR-Analytics-Attrition/blob/main/HR%20Attrition%20Analysis.png" />
 
+<img width="1321" height="720" alt="image" src="https://github.com/user-attachments/assets/31bb3245-a232-4b7d-90be-f316c6bdf1b1" />
 
 
 
