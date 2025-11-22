@@ -1,11 +1,14 @@
 # IBM-HR-Analytics-Attrition
 **Project Title**
+
 HR Analytics Dashboard for Employee Attrition & Workforce Insights
 
 **Short Project Description**
+
 This project analyzes employee attrition and workforce demographics using the IBM HR Analytics dataset. A Power BI dashboard was developed to help HR teams identify key drivers of employee turnover and improve retention strategies. Visualizations provide actionable insight into workforce structure, salary distribution, job role stability, and departmental attrition patterns.
 
 **Tech Stack Used**
+
 Technology	Purpose
 Power BI Desktop	Data Modeling, DAX calculations, Visualization & Dashboard
 Power Query	Data cleaning & transformation
