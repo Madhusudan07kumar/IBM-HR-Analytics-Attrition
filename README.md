@@ -1,5 +1,5 @@
-# IBM-HR-Analytics-Attrition
-**Project Title**
+> # IBM-HR-Analytics-Attrition
+> **Project Title**
 
 HR Analytics Dashboard for Employee Attrition & Workforce Insights
 
